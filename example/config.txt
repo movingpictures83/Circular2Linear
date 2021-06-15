@@ -1,0 +1,2 @@
+Prefix plugins/Circular2Linear/example/
+Plugin Circular2Linear inputfile parameters.txt outputfile linear.fasta

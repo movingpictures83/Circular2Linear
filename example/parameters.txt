@@ -1,0 +1,2 @@
+fasta	genome.fasta
+start	5000
